@@ -1,16 +1,12 @@
-### Hi there 👋
+# 이어진의 github 홈페이지
+## 프로젝트 주제
+첫 깃허브 시작입니다.
+##캐릭터
+<img src="무징.jpg"/><br>
+##발표 동영상
+발표 동영상입니다.
 
-<!--
-**Lee-history/lee-history** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/1uoCMViy_NI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Reference
+###[검색엔진](https://naver.com)
