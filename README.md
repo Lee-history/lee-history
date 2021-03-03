@@ -8,7 +8,7 @@
 ##발표 동영상
 발표 동영상입니다.
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/1uoCMViy_NI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="699" src="https://www.youtube.com/embed/b4_yTTzwF3A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##Reference
 ###[검색엔진](https://naver.com)
